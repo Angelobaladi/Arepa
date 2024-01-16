@@ -11,7 +11,7 @@ harina_pan = float(harina_pan)
 sal = float(sal)
 aceite = float(aceite)
 
-cantidad_de_tzs_de_sal = (sal/3)/16
+cantidad_de_tzs_de_sal = (sal/2)/16
 
 cantidad_de_tzs_de_aceite = aceite/16
 
